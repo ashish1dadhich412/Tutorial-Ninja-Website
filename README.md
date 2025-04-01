@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📞 Contact
-For queries or contributions, contact **Kanav Goswami** via GitHub or email.
+For queries or contributions, contact **Ashish Dadhich** via GitHub or email.
 
 ---
 
