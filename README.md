@@ -63,7 +63,7 @@ This document outlines the **testing methodology, strategy, and scope** for vali
 ## 👨‍💻 Roles & Responsibilities
 | Name           | Role         | Responsibilities                          |
 |--------------|-------------|-------------------------------------------|
-| Kanav Goswami | Test Engineer | Write and execute test cases, defect tracking. |
+| Ashish Dadhich | Test Engineer | Write and execute test cases, defect tracking. |
 
 ---
 
